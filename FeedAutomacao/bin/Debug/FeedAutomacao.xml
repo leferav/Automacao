@@ -1,0 +1,1758 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+FeedAutomacao
+</name>
+</assembly>
+<members>
+<member name="T:FeedAutomacao.My.Resources.Resources">
+<summary>
+  Uma classe de recurso de tipo de alta segurança, para pesquisar cadeias de caracteres localizadas etc.
+</summary>
+</member>
+<member name="P:FeedAutomacao.My.Resources.Resources.ResourceManager">
+<summary>
+  Retorna a instância de ResourceManager armazenada em cache usada por essa classe.
+</summary>
+</member>
+<member name="P:FeedAutomacao.My.Resources.Resources.Culture">
+<summary>
+  Substitui a propriedade CurrentUICulture do thread atual para todas as
+  pesquisas de recursos que usam essa classe de recurso de tipo de alta segurança.
+</summary>
+</member>
+<member name="P:FeedAutomacao.My.Resources.Resources._1302638831_application_side_expand">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Icon semelhante a (Ícone).
+</summary>
+</member>
+<member name="P:FeedAutomacao.My.Resources.Resources._1302639630_collapse">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Icon semelhante a (Ícone).
+</summary>
+</member>
+<member name="P:FeedAutomacao.My.Resources.Resources._1302639640_expand">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Icon semelhante a (Ícone).
+</summary>
+</member>
+<member name="P:FeedAutomacao.My.Resources.Resources._1302639725_expand">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:FeedAutomacao.My.Resources.Resources._1302639725_expand1">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:FeedAutomacao.My.Resources.Resources._1302639734_collapse">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:FeedAutomacao.My.Resources.Resources._1302639734_collapse1">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:FeedAutomacao.My.Resources.Resources._1302694537_next">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:FeedAutomacao.My.Resources.Resources._1302694537_next1">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:FeedAutomacao.My.Resources.Resources._1302694574_previous">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:FeedAutomacao.My.Resources.Resources._1302694574_previous1">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:FeedAutomacao.My.Resources.Resources._1302694947_next">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:FeedAutomacao.My.Resources.Resources._1302694947_next1">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:FeedAutomacao.My.Resources.Resources._1302694967_previous">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:FeedAutomacao.My.Resources.Resources._1302694967_previous1">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:FeedAutomacao.My.Resources.Resources._1302695938_kdevelop_down">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:FeedAutomacao.My.Resources.Resources._1302695938_kdevelop_down1">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:FeedAutomacao.My.Resources.Resources._1302696226_1uparrow">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:FeedAutomacao.My.Resources.Resources._1302696226_1uparrow1">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:FeedAutomacao.My.Resources.Resources._1302696679_kdevelop_down">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:FeedAutomacao.My.Resources.Resources._1302696679_kdevelop_down1">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:FeedAutomacao.My.Resources.Resources._1302696706_1uparrow">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:FeedAutomacao.My.Resources.Resources._1302696706_1uparrow1">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:FeedAutomacao.My.Resources.Resources._2">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:FeedAutomacao.My.Resources.Resources.BackdoBack">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:FeedAutomacao.My.Resources.Resources.bg">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:FeedAutomacao.My.Resources.Resources.bg1">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:FeedAutomacao.My.Resources.Resources.bgLogin2">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:FeedAutomacao.My.Resources.Resources.bgLogin21">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:FeedAutomacao.My.Resources.Resources.bgMod">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:FeedAutomacao.My.Resources.Resources.bgMod1">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:FeedAutomacao.My.Resources.Resources.bombinha">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:FeedAutomacao.My.Resources.Resources.branco">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:FeedAutomacao.My.Resources.Resources.branco1">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:FeedAutomacao.My.Resources.Resources.CalculadoraFS">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:FeedAutomacao.My.Resources.Resources.CalculadoraFS1">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:FeedAutomacao.My.Resources.Resources.CalculadoraFS11">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:FeedAutomacao.My.Resources.Resources.CalculadoraFS2">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:FeedAutomacao.My.Resources.Resources.Calculator">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Icon semelhante a (Ícone).
+</summary>
+</member>
+<member name="P:FeedAutomacao.My.Resources.Resources.calculator_256">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:FeedAutomacao.My.Resources.Resources.calculator_2561">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:FeedAutomacao.My.Resources.Resources.calculator_25611">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:FeedAutomacao.My.Resources.Resources.calculator_2562">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:FeedAutomacao.My.Resources.Resources.calculator_94289">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:FeedAutomacao.My.Resources.Resources.calculator_942891">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:FeedAutomacao.My.Resources.Resources.closeIcon">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:FeedAutomacao.My.Resources.Resources.closeIcon1">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:FeedAutomacao.My.Resources.Resources.Controle2">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:FeedAutomacao.My.Resources.Resources.Controle3">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:FeedAutomacao.My.Resources.Resources.email_icon">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:FeedAutomacao.My.Resources.Resources.email_icon_clean">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:FeedAutomacao.My.Resources.Resources.email_icon_clean1">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:FeedAutomacao.My.Resources.Resources.email_icon1">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:FeedAutomacao.My.Resources.Resources.emailsend">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:FeedAutomacao.My.Resources.Resources.emailsend1">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:FeedAutomacao.My.Resources.Resources.empresa">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:FeedAutomacao.My.Resources.Resources.empresa1">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:FeedAutomacao.My.Resources.Resources.Excluir">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Icon semelhante a (Ícone).
+</summary>
+</member>
+<member name="P:FeedAutomacao.My.Resources.Resources.excluir1">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:FeedAutomacao.My.Resources.Resources.Excluir2">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Icon semelhante a (Ícone).
+</summary>
+</member>
+<member name="P:FeedAutomacao.My.Resources.Resources.excluir3">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:FeedAutomacao.My.Resources.Resources.exlcuir">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:FeedAutomacao.My.Resources.Resources.exlcuir1">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:FeedAutomacao.My.Resources.Resources.feed">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:FeedAutomacao.My.Resources.Resources.feed_">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:FeedAutomacao.My.Resources.Resources.feed1">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Icon semelhante a (Ícone).
+</summary>
+</member>
+<member name="P:FeedAutomacao.My.Resources.Resources.maikan">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:FeedAutomacao.My.Resources.Resources.management_system">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:FeedAutomacao.My.Resources.Resources.sign_question_icon">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:FeedAutomacao.My.Resources.Resources.sign_question_icon1">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:FeedAutomacao.My.Resources.Resources.skp">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:FeedAutomacao.My.Resources.Resources.Thiaguera">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:FeedAutomacao.My.Resources.Resources.zap">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="M:FeedAutomacao.clValidacao.existCampo(System.String,System.String,System.String,System.Int32,System.Boolean,System.String)">
+ <param name="tabela"></param>
+ <param name="valor"></param>
+ <param name="IDreg"></param>
+ <param name="IDEmpresa"></param>
+ <param name="Condicao"></param>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="T:FeedAutomacao.dtsArmazemSQL">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:FeedAutomacao.dtsArmazemSQL.GetSugVeicDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:FeedAutomacao.dtsArmazemSQL.GetSugVeicRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:FeedAutomacao.dtsArmazemSQL.GetSugVeicRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:FeedAutomacao.dtsArmazemSQLTableAdapters.GetSugVeicTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:FeedAutomacao.dtsArmazemSQLTableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:FeedAutomacao.dtsArmazemSQLTableAdapters.TableAdapterManager.UpdateUpdatedRows(FeedAutomacao.dtsArmazemSQL,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:FeedAutomacao.dtsArmazemSQLTableAdapters.TableAdapterManager.UpdateInsertedRows(FeedAutomacao.dtsArmazemSQL,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:FeedAutomacao.dtsArmazemSQLTableAdapters.TableAdapterManager.UpdateDeletedRows(FeedAutomacao.dtsArmazemSQL,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:FeedAutomacao.dtsArmazemSQLTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:FeedAutomacao.dtsArmazemSQLTableAdapters.TableAdapterManager.UpdateAll(FeedAutomacao.dtsArmazemSQL)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:FeedAutomacao.dtsArmazemSQLTableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:FeedAutomacao.dtsArmazemSQLTableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+<member name="T:FeedAutomacao.dtsCadastroCliente">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:FeedAutomacao.dtsCadastroCliente.TB_CLIENTESDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:FeedAutomacao.dtsCadastroCliente.TB_CLIENTES_RESPONSAVEISDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:FeedAutomacao.dtsCadastroCliente.TB_CLIENTE_SISTEMADataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:FeedAutomacao.dtsCadastroCliente.impClienteDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:FeedAutomacao.dtsCadastroCliente.ImprimeResponsaveisDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:FeedAutomacao.dtsCadastroCliente.ImprimeUsuariosResponsáveisDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:FeedAutomacao.dtsCadastroCliente.imprimeEmpresaDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:FeedAutomacao.dtsCadastroCliente.TB_CLIENTESRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:FeedAutomacao.dtsCadastroCliente.TB_CLIENTES_RESPONSAVEISRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:FeedAutomacao.dtsCadastroCliente.TB_CLIENTE_SISTEMARow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:FeedAutomacao.dtsCadastroCliente.impClienteRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:FeedAutomacao.dtsCadastroCliente.ImprimeResponsaveisRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:FeedAutomacao.dtsCadastroCliente.ImprimeUsuariosResponsáveisRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:FeedAutomacao.dtsCadastroCliente.imprimeEmpresaRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:FeedAutomacao.dtsCadastroCliente.TB_CLIENTESRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:FeedAutomacao.dtsCadastroCliente.TB_CLIENTES_RESPONSAVEISRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:FeedAutomacao.dtsCadastroCliente.TB_CLIENTE_SISTEMARowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:FeedAutomacao.dtsCadastroCliente.impClienteRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:FeedAutomacao.dtsCadastroCliente.ImprimeResponsaveisRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:FeedAutomacao.dtsCadastroCliente.ImprimeUsuariosResponsáveisRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:FeedAutomacao.dtsCadastroCliente.imprimeEmpresaRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:FeedAutomacao.dtsCadastroClienteTableAdapters.TB_CLIENTESTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:FeedAutomacao.dtsCadastroClienteTableAdapters.TB_CLIENTES_RESPONSAVEISTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:FeedAutomacao.dtsCadastroClienteTableAdapters.TB_CLIENTE_SISTEMATableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:FeedAutomacao.dtsCadastroClienteTableAdapters.impClienteTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:FeedAutomacao.dtsCadastroClienteTableAdapters.ImprimeResponsaveisTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:FeedAutomacao.dtsCadastroClienteTableAdapters.ImprimeUsuariosResponsáveisTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:FeedAutomacao.dtsCadastroClienteTableAdapters.imprimeEmpresaTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:FeedAutomacao.dtsCadastroClienteTableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:FeedAutomacao.dtsCadastroClienteTableAdapters.TableAdapterManager.UpdateUpdatedRows(FeedAutomacao.dtsCadastroCliente,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:FeedAutomacao.dtsCadastroClienteTableAdapters.TableAdapterManager.UpdateInsertedRows(FeedAutomacao.dtsCadastroCliente,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:FeedAutomacao.dtsCadastroClienteTableAdapters.TableAdapterManager.UpdateDeletedRows(FeedAutomacao.dtsCadastroCliente,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:FeedAutomacao.dtsCadastroClienteTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:FeedAutomacao.dtsCadastroClienteTableAdapters.TableAdapterManager.UpdateAll(FeedAutomacao.dtsCadastroCliente)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:FeedAutomacao.dtsCadastroClienteTableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:FeedAutomacao.dtsCadastroClienteTableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+<member name="T:FeedAutomacao.dtsCadAtendentes">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:FeedAutomacao.dtsCadAtendentes.TB_ATENDENTESDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:FeedAutomacao.dtsCadAtendentes.ImpAtendentesDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:FeedAutomacao.dtsCadAtendentes.TB_USUARIODataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:FeedAutomacao.dtsCadAtendentes.TB_ATENDENTESRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:FeedAutomacao.dtsCadAtendentes.ImpAtendentesRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:FeedAutomacao.dtsCadAtendentes.TB_USUARIORow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:FeedAutomacao.dtsCadAtendentes.TB_ATENDENTESRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:FeedAutomacao.dtsCadAtendentes.ImpAtendentesRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:FeedAutomacao.dtsCadAtendentes.TB_USUARIORowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:FeedAutomacao.dtsCadAtendentesTableAdapters.TB_ATENDENTESTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:FeedAutomacao.dtsCadAtendentesTableAdapters.ImpAtendentesTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:FeedAutomacao.dtsCadAtendentesTableAdapters.TB_USUARIOTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:FeedAutomacao.dtsCadAtendentesTableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:FeedAutomacao.dtsCadAtendentesTableAdapters.TableAdapterManager.UpdateUpdatedRows(FeedAutomacao.dtsCadAtendentes,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:FeedAutomacao.dtsCadAtendentesTableAdapters.TableAdapterManager.UpdateInsertedRows(FeedAutomacao.dtsCadAtendentes,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:FeedAutomacao.dtsCadAtendentesTableAdapters.TableAdapterManager.UpdateDeletedRows(FeedAutomacao.dtsCadAtendentes,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:FeedAutomacao.dtsCadAtendentesTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:FeedAutomacao.dtsCadAtendentesTableAdapters.TableAdapterManager.UpdateAll(FeedAutomacao.dtsCadAtendentes)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:FeedAutomacao.dtsCadAtendentesTableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:FeedAutomacao.dtsCadAtendentesTableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+<member name="T:FeedAutomacao.dtsDev">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:FeedAutomacao.dtsDev.TB_DESENVOLVEDORDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:FeedAutomacao.dtsDev.TB_TIPO_RELATORIODataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:FeedAutomacao.dtsDev.TB_DESENVOLVEDORRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:FeedAutomacao.dtsDev.TB_TIPO_RELATORIORow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:FeedAutomacao.dtsDev.TB_DESENVOLVEDORRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:FeedAutomacao.dtsDev.TB_TIPO_RELATORIORowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:FeedAutomacao.dtsDevTableAdapters.TB_DESENVOLVEDORTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:FeedAutomacao.dtsDevTableAdapters.TB_TIPO_RELATORIOTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:FeedAutomacao.dtsDevTableAdapters.QueriesTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:FeedAutomacao.dtsDevTableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:FeedAutomacao.dtsDevTableAdapters.TableAdapterManager.UpdateUpdatedRows(FeedAutomacao.dtsDev,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:FeedAutomacao.dtsDevTableAdapters.TableAdapterManager.UpdateInsertedRows(FeedAutomacao.dtsDev,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:FeedAutomacao.dtsDevTableAdapters.TableAdapterManager.UpdateDeletedRows(FeedAutomacao.dtsDev,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:FeedAutomacao.dtsDevTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:FeedAutomacao.dtsDevTableAdapters.TableAdapterManager.UpdateAll(FeedAutomacao.dtsDev)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:FeedAutomacao.dtsDevTableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:FeedAutomacao.dtsDevTableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+<member name="T:FeedAutomacao.dtsFuncao">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:FeedAutomacao.dtsFuncao.BuscaCEPDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:FeedAutomacao.dtsFuncao.BuscaCEPRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:FeedAutomacao.dtsFuncao.BuscaCEPRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:FeedAutomacao.dtsFuncaoTableAdapters.BuscaCEPTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:FeedAutomacao.dtsFuncaoTableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:FeedAutomacao.dtsFuncaoTableAdapters.TableAdapterManager.UpdateUpdatedRows(FeedAutomacao.dtsFuncao,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:FeedAutomacao.dtsFuncaoTableAdapters.TableAdapterManager.UpdateInsertedRows(FeedAutomacao.dtsFuncao,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:FeedAutomacao.dtsFuncaoTableAdapters.TableAdapterManager.UpdateDeletedRows(FeedAutomacao.dtsFuncao,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:FeedAutomacao.dtsFuncaoTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:FeedAutomacao.dtsFuncaoTableAdapters.TableAdapterManager.UpdateAll(FeedAutomacao.dtsFuncao)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:FeedAutomacao.dtsFuncaoTableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:FeedAutomacao.dtsFuncaoTableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+<member name="T:FeedAutomacao.dtsLoguin">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:FeedAutomacao.dtsLoguin.verificaLoginDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:FeedAutomacao.dtsLoguin.verificaLoginRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:FeedAutomacao.dtsLoguin.verificaLoginRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:FeedAutomacao.dtsLoguinTableAdapters.verificaLoginTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:FeedAutomacao.dtsLoguinTableAdapters.QueriesTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:FeedAutomacao.dtsLoguinTableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:FeedAutomacao.dtsLoguinTableAdapters.TableAdapterManager.UpdateUpdatedRows(FeedAutomacao.dtsLoguin,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:FeedAutomacao.dtsLoguinTableAdapters.TableAdapterManager.UpdateInsertedRows(FeedAutomacao.dtsLoguin,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:FeedAutomacao.dtsLoguinTableAdapters.TableAdapterManager.UpdateDeletedRows(FeedAutomacao.dtsLoguin,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:FeedAutomacao.dtsLoguinTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:FeedAutomacao.dtsLoguinTableAdapters.TableAdapterManager.UpdateAll(FeedAutomacao.dtsLoguin)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:FeedAutomacao.dtsLoguinTableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:FeedAutomacao.dtsLoguinTableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+<member name="T:FeedAutomacao.dtsMapeamento">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:FeedAutomacao.dtsMapeamentoConf">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:FeedAutomacao.dtsMapeamentoConf.TB_MAP_CONFDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:FeedAutomacao.dtsMapeamentoConf.TB_MAP_CONFRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:FeedAutomacao.dtsMapeamentoConf.TB_MAP_CONFRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:FeedAutomacao.dtsMapeamentoConfTableAdapters.TB_MAP_CONFTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:FeedAutomacao.dtsMapeamentoConfTableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:FeedAutomacao.dtsMapeamentoConfTableAdapters.TableAdapterManager.UpdateUpdatedRows(FeedAutomacao.dtsMapeamentoConf,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:FeedAutomacao.dtsMapeamentoConfTableAdapters.TableAdapterManager.UpdateInsertedRows(FeedAutomacao.dtsMapeamentoConf,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:FeedAutomacao.dtsMapeamentoConfTableAdapters.TableAdapterManager.UpdateDeletedRows(FeedAutomacao.dtsMapeamentoConf,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:FeedAutomacao.dtsMapeamentoConfTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:FeedAutomacao.dtsMapeamentoConfTableAdapters.TableAdapterManager.UpdateAll(FeedAutomacao.dtsMapeamentoConf)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:FeedAutomacao.dtsMapeamentoConfTableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:FeedAutomacao.dtsMapeamentoConfTableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+<member name="T:FeedAutomacao.dtsPrioridade">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:FeedAutomacao.dtsPrioridade.TB_PRIORIDADEDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:FeedAutomacao.dtsPrioridade.TB_PRIORIDADERow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:FeedAutomacao.dtsPrioridade.TB_PRIORIDADERowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:FeedAutomacao.dtsPrioridadeTableAdapters.TB_PRIORIDADETableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:FeedAutomacao.dtsPrioridadeTableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:FeedAutomacao.dtsPrioridadeTableAdapters.TableAdapterManager.UpdateUpdatedRows(FeedAutomacao.dtsPrioridade,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:FeedAutomacao.dtsPrioridadeTableAdapters.TableAdapterManager.UpdateInsertedRows(FeedAutomacao.dtsPrioridade,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:FeedAutomacao.dtsPrioridadeTableAdapters.TableAdapterManager.UpdateDeletedRows(FeedAutomacao.dtsPrioridade,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:FeedAutomacao.dtsPrioridadeTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:FeedAutomacao.dtsPrioridadeTableAdapters.TableAdapterManager.UpdateAll(FeedAutomacao.dtsPrioridade)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:FeedAutomacao.dtsPrioridadeTableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:FeedAutomacao.dtsPrioridadeTableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+<member name="T:FeedAutomacao.dtsRel">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:FeedAutomacao.dtsRel.RelControleAcessoDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:FeedAutomacao.dtsRel.retornaDadosEmpresaDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:FeedAutomacao.dtsRel.RelControleAcessoRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:FeedAutomacao.dtsRel.retornaDadosEmpresaRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:FeedAutomacao.dtsRel.RelControleAcessoRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:FeedAutomacao.dtsRel.retornaDadosEmpresaRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:FeedAutomacao.dtsRelTableAdapters.RelControleAcessoTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:FeedAutomacao.dtsRelTableAdapters.retornaDadosEmpresaTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:FeedAutomacao.dtsRelTableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:FeedAutomacao.dtsRelTableAdapters.TableAdapterManager.UpdateUpdatedRows(FeedAutomacao.dtsRel,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:FeedAutomacao.dtsRelTableAdapters.TableAdapterManager.UpdateInsertedRows(FeedAutomacao.dtsRel,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:FeedAutomacao.dtsRelTableAdapters.TableAdapterManager.UpdateDeletedRows(FeedAutomacao.dtsRel,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:FeedAutomacao.dtsRelTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:FeedAutomacao.dtsRelTableAdapters.TableAdapterManager.UpdateAll(FeedAutomacao.dtsRel)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:FeedAutomacao.dtsRelTableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:FeedAutomacao.dtsRelTableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+<member name="T:FeedAutomacao.dtsRelPortaria">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:FeedAutomacao.dtsRelPortaria.retornaDadosEmpresa2DataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:FeedAutomacao.dtsRelPortaria.ControlePortariaCASEMGDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:FeedAutomacao.dtsRelPortaria.TICKETCASEMGDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:FeedAutomacao.dtsRelPortaria.relAutomacaoControlePortariaTicketDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:FeedAutomacao.dtsRelPortaria.retornaDadosEmpresa2Row">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:FeedAutomacao.dtsRelPortaria.ControlePortariaCASEMGRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:FeedAutomacao.dtsRelPortaria.TICKETCASEMGRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:FeedAutomacao.dtsRelPortaria.relAutomacaoControlePortariaTicketRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:FeedAutomacao.dtsRelPortaria.retornaDadosEmpresa2RowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:FeedAutomacao.dtsRelPortaria.ControlePortariaCASEMGRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:FeedAutomacao.dtsRelPortaria.TICKETCASEMGRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:FeedAutomacao.dtsRelPortaria.relAutomacaoControlePortariaTicketRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:FeedAutomacao.dtsRelPortariaTableAdapters.retornaDadosEmpresa2TableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:FeedAutomacao.dtsRelPortariaTableAdapters.ControlePortariaCASEMGTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:FeedAutomacao.dtsRelPortariaTableAdapters.TICKETCASEMGTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:FeedAutomacao.dtsRelPortariaTableAdapters.relAutomacaoControlePortariaTicketTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:FeedAutomacao.dtsRelPortariaTableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:FeedAutomacao.dtsRelPortariaTableAdapters.TableAdapterManager.UpdateUpdatedRows(FeedAutomacao.dtsRelPortaria,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:FeedAutomacao.dtsRelPortariaTableAdapters.TableAdapterManager.UpdateInsertedRows(FeedAutomacao.dtsRelPortaria,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:FeedAutomacao.dtsRelPortariaTableAdapters.TableAdapterManager.UpdateDeletedRows(FeedAutomacao.dtsRelPortaria,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:FeedAutomacao.dtsRelPortariaTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:FeedAutomacao.dtsRelPortariaTableAdapters.TableAdapterManager.UpdateAll(FeedAutomacao.dtsRelPortaria)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:FeedAutomacao.dtsRelPortariaTableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:FeedAutomacao.dtsRelPortariaTableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+<member name="T:FeedAutomacao.dtsRevisao">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:FeedAutomacao.dtsRevisao.TB_REVISAODataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:FeedAutomacao.dtsRevisao.TB_REVISAORow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:FeedAutomacao.dtsRevisao.TB_REVISAORowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:FeedAutomacao.dtsRevisaoTableAdapters.TB_REVISAOTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:FeedAutomacao.dtsRevisaoTableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:FeedAutomacao.dtsRevisaoTableAdapters.TableAdapterManager.UpdateUpdatedRows(FeedAutomacao.dtsRevisao,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:FeedAutomacao.dtsRevisaoTableAdapters.TableAdapterManager.UpdateInsertedRows(FeedAutomacao.dtsRevisao,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:FeedAutomacao.dtsRevisaoTableAdapters.TableAdapterManager.UpdateDeletedRows(FeedAutomacao.dtsRevisao,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:FeedAutomacao.dtsRevisaoTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:FeedAutomacao.dtsRevisaoTableAdapters.TableAdapterManager.UpdateAll(FeedAutomacao.dtsRevisao)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:FeedAutomacao.dtsRevisaoTableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:FeedAutomacao.dtsRevisaoTableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+<member name="T:FeedAutomacao.dtsTabelas">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:FeedAutomacao.dtsTabelas.TB_AUTOMACAO_EQUIPAMENTOSDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:FeedAutomacao.dtsTabelas.TB_PESSOADataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:FeedAutomacao.dtsTabelas.TB_PORTARIADataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:FeedAutomacao.dtsTabelas.TB_AUTOMACAO_EQUIPAMENTOSRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:FeedAutomacao.dtsTabelas.TB_PESSOARow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:FeedAutomacao.dtsTabelas.TB_PORTARIARow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:FeedAutomacao.dtsTabelas.TB_AUTOMACAO_EQUIPAMENTOSRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:FeedAutomacao.dtsTabelas.TB_PESSOARowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:FeedAutomacao.dtsTabelas.TB_PORTARIARowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:FeedAutomacao.dtsTabelasTableAdapters.TB_AUTOMACAO_EQUIPAMENTOSTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:FeedAutomacao.dtsTabelasTableAdapters.TB_PESSOATableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:FeedAutomacao.dtsTabelasTableAdapters.TB_PORTARIATableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:FeedAutomacao.dtsTabelasTableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:FeedAutomacao.dtsTabelasTableAdapters.TableAdapterManager.UpdateUpdatedRows(FeedAutomacao.dtsTabelas,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:FeedAutomacao.dtsTabelasTableAdapters.TableAdapterManager.UpdateInsertedRows(FeedAutomacao.dtsTabelas,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:FeedAutomacao.dtsTabelasTableAdapters.TableAdapterManager.UpdateDeletedRows(FeedAutomacao.dtsTabelas,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:FeedAutomacao.dtsTabelasTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:FeedAutomacao.dtsTabelasTableAdapters.TableAdapterManager.UpdateAll(FeedAutomacao.dtsTabelas)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:FeedAutomacao.dtsTabelasTableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:FeedAutomacao.dtsTabelasTableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+<member name="T:FeedAutomacao.dtsTipoAcesso">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:FeedAutomacao.dtsTipoAcesso.TB_TIPO_ACESSODataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:FeedAutomacao.dtsTipoAcesso.TB_ACESSO_CLIENTESDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:FeedAutomacao.dtsTipoAcesso.TB_TIPO_SISTEMADataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:FeedAutomacao.dtsTipoAcesso.ImprimeAcessoClienteDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:FeedAutomacao.dtsTipoAcesso.ImprimeUsuariosResponsáveisDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:FeedAutomacao.dtsTipoAcesso.TB_TIPO_TELADataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:FeedAutomacao.dtsTipoAcesso.TB_TIPO_RELATORIODataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:FeedAutomacao.dtsTipoAcesso.TB_TIPO_ACESSORow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:FeedAutomacao.dtsTipoAcesso.TB_ACESSO_CLIENTESRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:FeedAutomacao.dtsTipoAcesso.TB_TIPO_SISTEMARow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:FeedAutomacao.dtsTipoAcesso.ImprimeAcessoClienteRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:FeedAutomacao.dtsTipoAcesso.ImprimeUsuariosResponsáveisRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:FeedAutomacao.dtsTipoAcesso.TB_TIPO_TELARow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:FeedAutomacao.dtsTipoAcesso.TB_TIPO_RELATORIORow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:FeedAutomacao.dtsTipoAcesso.TB_TIPO_ACESSORowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:FeedAutomacao.dtsTipoAcesso.TB_ACESSO_CLIENTESRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:FeedAutomacao.dtsTipoAcesso.TB_TIPO_SISTEMARowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:FeedAutomacao.dtsTipoAcesso.ImprimeAcessoClienteRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:FeedAutomacao.dtsTipoAcesso.ImprimeUsuariosResponsáveisRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:FeedAutomacao.dtsTipoAcesso.TB_TIPO_TELARowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:FeedAutomacao.dtsTipoAcesso.TB_TIPO_RELATORIORowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:FeedAutomacao.dtsTipoAcessoTableAdapters.TB_TIPO_ACESSOTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:FeedAutomacao.dtsTipoAcessoTableAdapters.TB_ACESSO_CLIENTESTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:FeedAutomacao.dtsTipoAcessoTableAdapters.TB_TIPO_SISTEMATableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:FeedAutomacao.dtsTipoAcessoTableAdapters.ImprimeAcessoClienteTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:FeedAutomacao.dtsTipoAcessoTableAdapters.ImprimeUsuariosResponsáveisTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:FeedAutomacao.dtsTipoAcessoTableAdapters.TB_TIPO_TELATableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:FeedAutomacao.dtsTipoAcessoTableAdapters.TB_TIPO_RELATORIOTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:FeedAutomacao.dtsTipoAcessoTableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:FeedAutomacao.dtsTipoAcessoTableAdapters.TableAdapterManager.UpdateUpdatedRows(FeedAutomacao.dtsTipoAcesso,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:FeedAutomacao.dtsTipoAcessoTableAdapters.TableAdapterManager.UpdateInsertedRows(FeedAutomacao.dtsTipoAcesso,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:FeedAutomacao.dtsTipoAcessoTableAdapters.TableAdapterManager.UpdateDeletedRows(FeedAutomacao.dtsTipoAcesso,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:FeedAutomacao.dtsTipoAcessoTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:FeedAutomacao.dtsTipoAcessoTableAdapters.TableAdapterManager.UpdateAll(FeedAutomacao.dtsTipoAcesso)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:FeedAutomacao.dtsTipoAcessoTableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:FeedAutomacao.dtsTipoAcessoTableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+<member name="E:FeedAutomacao.fbTextBoxSearch.CurrentSuggestChanged">
+ <summary>
+ Event is fired after the List of current Suggest changed
+ </summary>
+ <param name="sender"></param>
+ <param name="e"></param>
+ <remarks></remarks>
+</member>
+<member name="P:FeedAutomacao.fbTextBoxSearch.AutoCompleteControlMaxHeighBeforScrolling">
+ <summary>
+ Maximal heigh of the Autocomplete Control befor Scrollbar is shown
+ </summary>
+ <value></value>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="P:FeedAutomacao.fbTextBoxSearch.AutoCompleteListHotKey">
+ <summary>
+ Shortcut for displaying the Autocomplete Control
+ </summary>
+ <value></value>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="P:FeedAutomacao.fbTextBoxSearch.ParentForm">
+ <summary>
+ Parent Windows Form from the UserControl
+ </summary>
+ <value></value>
+ <returns></returns>
+ <remarks>This Property is Set in the HandleCreate Event of the Control</remarks>
+</member>
+<member name="P:FeedAutomacao.fbTextBoxSearch.CurrentSuggestCollection">
+ <summary>
+ Current Suggestion for the Input Value
+ </summary>
+ <value></value>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="P:FeedAutomacao.fbTextBoxSearch.AutoCompleteCollection">
+ <summary>
+ Collection for the Autocomplette
+ </summary>
+ <value></value>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="P:FeedAutomacao.fbTextBoxSearch.BuscaContains">
+ <summary>
+ Busca por Contains
+ </summary>
+ <value></value>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="P:FeedAutomacao.fbTextBoxSearch.CaracterInicio">
+ <summary>
+ Caracter Inicio
+ </summary>
+ <value></value>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="P:FeedAutomacao.fbTextBoxSearch.CaracterFim">
+ <summary>
+ Caracter Fim
+ </summary>
+ <value></value>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:FeedAutomacao.fbTextBoxSearch.ShowAutoCompleteControl">
+ <summary>
+ Shows the Autocomplete Control with all Values
+ </summary>
+ <remarks></remarks>
+</member>
+</members>
+</doc>
